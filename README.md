@@ -22,8 +22,3 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 <a href="mailto:mesouravofficial@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
-
-© 2021 Saurav Mukherjee
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
