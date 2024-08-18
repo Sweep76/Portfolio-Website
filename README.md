@@ -1,4 +1,4 @@
-## Portfolio-Website
+## Portfolio-Website Purposes Only
 
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
